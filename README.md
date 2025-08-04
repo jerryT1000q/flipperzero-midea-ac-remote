@@ -1,4 +1,12 @@
-# Midea AC Remote
+# Clone repository
+git clone https://github.com/xakep666/flipperzero-midea-ac-remote.git
+cd flipperzero-midea-ac-remote
+
+# Build the application
+ufbt build
+
+# Build and launch the application
+ufbt launch# Midea AC Remote
 
 Midea Electric AC remote control for Flipper Zero.
 
